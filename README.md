@@ -2,7 +2,7 @@
 
 Üniversite bitirme projesi için hazırlanmış, Streamlit ile çalışan etkileşimli becayiş demosu. Örnek ilanları inceleyebilir, kendi oturumunda profil ve ilan oluşturabilir, karşılıklı tercihlere dayanan ikili ve üçlü eşleşmeleri görebilir ve dilekçe taslağı indirebilirsin.
 
-**Canlı uygulama:** Yayından sonra doğrulanmış URL buraya eklenir.
+**Canlı uygulama:** [Memur Becayiş demosunu aç](https://memur-becayis-platformu-kjvlrmwmfswheuyoket4fm.streamlit.app/)
 
 ## Demo kapsamı
 
