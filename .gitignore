@@ -1,0 +1,54 @@
+# Python environments and caches
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+build/
+dist/
+
+# Secrets and credentials (never commit real account data)
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+**/.streamlit/secrets.toml
+credentials.json
+*credentials*.json
+service-account*.json
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Runtime files and local data
+*.log
+*.sqlite
+*.sqlite3
+*.db
+.cache/
+.streamlit/cache/
+runtime/
+uploads/
+storage/
+generated_pdfs/
+data/local/
+work/
+tmp/
+temp/
+
+# Optional Node example
+node_modules/
+
+# Editor / OS artifacts
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
